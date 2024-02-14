@@ -45,6 +45,11 @@ I am a mechatronics student at University of Agder in Norway :school_satchel:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </div>
+
+---
+### :left_speech_bubble: Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trezzix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Trezzix/Trezzix** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 -->

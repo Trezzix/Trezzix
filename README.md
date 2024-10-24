@@ -16,8 +16,8 @@
 ---
 ### :book: About Me:
 I am a mechatronics student at University of Agder in Norway :school_satchel:
-- :satellite: Currently working on my bachelor thesis "Visual Pose Estimation and Infrastructure Development for Drone Reinforcement Learning Arena"
-- :seedling: Looking forward to beginning my masters degree
+- 🎓: Currently going through the MSc. degree in mechatronics at UiA
+- :satellite: Finished the bachelor thesis "Visual Pose Estimation and Infrastructure Development for Drone Reinforcement Learning Arena"
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://no.linkedin.com/in/thomas-l%C3%B8nne-stiansen-a13066234)
 
 ---

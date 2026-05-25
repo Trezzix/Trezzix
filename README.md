@@ -16,8 +16,9 @@
 ---
 ### :book: About Me:
 I am a mechatronics student at University of Agder in Norway :school_satchel:
-- 🎓: Currently going through the MSc. degree in mechatronics at UiA
-- :satellite: Finished the bachelor thesis "Visual Pose Estimation and Infrastructure Development for Drone Reinforcement Learning Arena"
+- 🎓 Part of the double degree programme for the MSc. degrees in mechatronics at UiA and FHV (Fachhochschule Vorarlberg)
+- 🤖 MSc thesis: *"Direct Robot Integration of an Autonomous Hooking System with Active Motion Compensation"*
+- :satellite: BSc thesis "Visual Pose Estimation and Infrastructure Development for Drone Reinforcement Learning Arena"
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://no.linkedin.com/in/thomas-l%C3%B8nne-stiansen-a13066234)
 
 ---
@@ -44,6 +45,7 @@ I am a mechatronics student at University of Agder in Norway :school_satchel:
   <a href="https://www.python.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+  TBA much more :) Until then, feel free to contact me through linkedin!
 </div>
 <!--
 **Trezzix/Trezzix** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,8 +15,8 @@
 
 ---
 ### :book: About Me:
-I am a mechatronics student at University of Agder in Norway :school_satchel:
-- 🎓 Part of the double degree programme for the MSc. degrees in mechatronics at UiA and FHV (Fachhochschule Vorarlberg)
+I am a mechatronics engineer in southern Norway, interested in all things related to robotics 🦾
+- 🎓 Double MSc. degree in mechatronics at UiA (University of Agder) and FHV (Fachhochschule Vorarlberg)
 - 🤖 MSc thesis: *"Direct Robot Integration of an Autonomous Hooking System with Active Motion Compensation"*
 - :satellite: BSc thesis "Visual Pose Estimation and Infrastructure Development for Drone Reinforcement Learning Arena"
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://no.linkedin.com/in/thomas-l%C3%B8nne-stiansen-a13066234)
